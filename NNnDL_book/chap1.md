@@ -31,4 +31,4 @@ Binary inputs and Binary output. Rule for computing the output is
 * Varying the weights of input and threshold at o/p it showed how it would affect the decision
 
 #### Biological inspiration
-
+check these links [1](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781788397872/1/ch01lvl1sec9/inspiration-for-neural-networks), [2](https://www.inetsoft.com/company/inspiration_for_artificial_neural_networks/)
